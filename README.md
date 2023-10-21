@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## References
+
+initialize by the `npx create-next-app@latest`
+
+`utils/classname.ts` and `components/tailwind-indicator.tsx` come from the repo [shadcn/ui](https://github.com/shadcn-ui/ui)
